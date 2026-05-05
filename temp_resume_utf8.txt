@@ -1,0 +1,53 @@
+   
+Y ASMIN MOHAMMAD ALI 
++91 8848648542 | yasminmohammadali2005@gmail.com | GitHub | LinkedIn | Kannur, Kerala 
+ 
+Profile Summary
+ 
+BBA student specializing in Business Analytics with hands-on experience in Excel, Power BI, Python, MySQL and 
+data visualization as well as other skills through real-world projects and internship work. Skilled in transforming raw 
+data into actionable insights to support business decisions. Seeking an entry-level Business/Data Analyst role to 
+apply analytical and problem-solving skills. 
+ 
+Education
+ 
+Bachelor in Business Administration | Specializing in Entrepreneurship and Business Analytics | Yenepoya Institute of Arts, Science, 
+Commerce and Management | CGPA: 9.77 | 2023-2026 
+High School Education | St. Elizabeth School Vellarikkundu | 92% | 2021-2023 
+ 
+Skills
+ 
+Technical skills: Microsoft Office (Excel, Word, PowerPoint) | MySQL (basic) | Python (basic) | PowerBI | MongoDB | Tableau 
+(basic) | Google Looker Studio | Basic Statistics for Data Analysis | Canva | WordPress 
+Soft Skills: Team Collaboration | Time Management | Problem Solving and Analytical Skills | Communication  
+Work Experience 
+ 
+Acadeno Technologies Private Limited | Business Analyst Intern | March 2026 – April 2026 
+  - Cleaned and transformed datasets using Excel and Power BI to improve reporting accuracy 
+  - Built interactive dashboards to track business performance metrics  
+  - Analyzed data trends to support decision-making and identify improvement areas 
+  - Collaborated with team members to provide insights and solve business problems 
+ 
+Projects 
+ 
+Customer Churn & LTV Analytics Dashboard | Power BI Project | GitHub: Repository 
+➢ Built an interactive Power BI dashboard using the IBM Telco Customer Churn dataset, leveraging SQL for 
+data querying, Python for data cleaning and LTV feature engineering, and Excel for analysis, to identify 
+key churn drivers and high-value customers at risk and support data-driven retention strategies. 
+Customer Behaviour Product Transaction Analytics Dashboard | PowerBI Project | GitHub: Repository 
+➢ Built an interactive Power BI dashboard analyzing customer transa ctions, identifying purchasing patterns 
+and improving data-driven decision-making 
+Flipkart Sales and Product Insights | Data Analysis & Visualization | Power BI Project | GitHub: Repository  
+➢ Built a dynamic dashboard to evaluate product performance, sales trends, and customer preferences  
+Certifications 
+ 
+Research Paper Presentation at an International Online Conference at SDM College, Mangalore, Karnataka | 
+Unveiling the Impact of B2E E-Business on E-Commerce 
+Research Poster Presentation at a National Online Conference at K.R Mangalam University, Gurugam, Haryana | 
+Emerging Trends and Thematic Frontiers in AI and Human Rights Research: A Science  Mapping Study. 
+Coursera Certifications | Human Resources Analytics – University of California Irvine | Introduction to Finance: 
+The Basics - University of Illinois Urbana-Champaign | Marketing: Customer Needs and Wants- IESE Business 
+School | Google Data Analytics – Google | Generative AI: Introduction and Applications - IBM 
+ 
+Languages 
+o English (Reading, Writing, Speaking) | Malayalam (Speaking, Understanding) | Hindi (Reading, Speaking) 
